@@ -16,6 +16,7 @@
 		<Item Name="PID_screen_V1.2.vi" Type="VI" URL="../PID_screen_V1.2.vi"/>
 		<Item Name="PID_screen_V2.0.vi" Type="VI" URL="../PID_screen_V2.0.vi"/>
 		<Item Name="PID_screen_V2.1.vi" Type="VI" URL="../PID_screen_V2.1.vi"/>
+		<Item Name="PID_screen_V3.0.vi" Type="VI" URL="../PID_screen_V3.0.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

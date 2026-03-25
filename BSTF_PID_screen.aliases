@@ -1,2 +1,6 @@
 [My Computer]
+<<<<<<< HEAD
 My Computer = "10.20.2.84"
+=======
+My Computer = "10.20.1.136"
+>>>>>>> parent of 0f36873 (Working on version v2.1 creating a 3d pipeline)

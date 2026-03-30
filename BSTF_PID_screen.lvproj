@@ -11,15 +11,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="PID_screen_V1.0.vi" Type="VI" URL="../PID_screen_V1.0.vi"/>
-		<Item Name="PID_screen_V1.1.vi" Type="VI" URL="../PID_screen_V1.1.vi"/>
-		<Item Name="PID_screen_V1.2.vi" Type="VI" URL="../PID_screen_V1.2.vi"/>
-		<Item Name="PID_screen_V2.0.vi" Type="VI" URL="../PID_screen_V2.0.vi"/>
-<<<<<<< HEAD
-		<Item Name="PID_screen_V2.1.vi" Type="VI" URL="../PID_screen_V2.1.vi"/>
-		<Item Name="PID_screen_V3.0.vi" Type="VI" URL="../PID_screen_V3.0.vi"/>
-=======
->>>>>>> parent of 0f36873 (Working on version v2.1 creating a 3d pipeline)
+		<Item Name="BTSF-PID-screen" Type="Folder" URL="..">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
